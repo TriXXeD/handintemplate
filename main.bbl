@@ -1,0 +1,224 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{business}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fc81b7f3a17c28b5d4f3066889d13fe4}{%
+           family={Bort},
+           family_i={B\bibinitperiod},
+           given={Julie},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc81b7f3a17c28b5d4f3066889d13fe4}
+      \strng{fullhash}{fc81b7f3a17c28b5d4f3066889d13fe4}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.businessinsider.com.au/how-the-hackers-broke-into-sony-2014-12}}
+      \field{title}{businessinsider}
+      \field{year}{2014}
+    \endentry
+    \entry{division}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f2ce296fb394808424b06b483e8f54f8}{%
+           family={Caldwell},
+           family_i={C\bibinitperiod},
+           given={Chris\bibnamedelima K.},
+           given_i={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2ce296fb394808424b06b483e8f54f8}
+      \strng{fullhash}{f2ce296fb394808424b06b483e8f54f8}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://primes.utm.edu/glossary/xpage/divides.html}}
+      \field{title}{divides}
+      \field{year}{2017}
+    \endentry
+    \entry{uscert}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=68a43a14afa6973a1781d4aba55f1691}{%
+           family={US-CERT},
+           family_i={U\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{68a43a14afa6973a1781d4aba55f1691}
+      \strng{fullhash}{68a43a14afa6973a1781d4aba55f1691}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.us-cert.gov/ncas/alerts/TA14-353A}}
+      \field{title}{uscert}
+      \field{year}{2014}
+    \endentry
+    \entry{fortune1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=91faa32f97bf06b8e8690fc34300080b}{%
+           family={Elkind},
+           family_i={E\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{91faa32f97bf06b8e8690fc34300080b}
+      \strng{fullhash}{91faa32f97bf06b8e8690fc34300080b}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://fortune.com/sony-hack-part-1/}}
+      \field{title}{divides}
+      \field{year}{2015}
+    \endentry
+    \entry{fortune2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=91faa32f97bf06b8e8690fc34300080b}{%
+           family={Elkind},
+           family_i={E\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{91faa32f97bf06b8e8690fc34300080b}
+      \strng{fullhash}{91faa32f97bf06b8e8690fc34300080b}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://fortune.com/sony-hack-part-two/}}
+      \field{title}{divides}
+      \field{year}{2015}
+    \endentry
+    \entry{fortune3}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=91faa32f97bf06b8e8690fc34300080b}{%
+           family={Elkind},
+           family_i={E\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{91faa32f97bf06b8e8690fc34300080b}
+      \strng{fullhash}{91faa32f97bf06b8e8690fc34300080b}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://fortune.com/sony-hack-final-part/}}
+      \field{title}{divides}
+      \field{year}{2015}
+    \endentry
+    \entry{arstech}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cd2ab116934e46892af081a2313efc38}{%
+           family={Gallagher},
+           family_i={G\bibinitperiod},
+           given={Sean},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd2ab116934e46892af081a2313efc38}
+      \strng{fullhash}{cd2ab116934e46892af081a2313efc38}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://arstechnica.com/information-technology/2014/12/inside-the-wiper-malware-that-brought-sony-pictures-to-its-knees/}}
+      \field{title}{arstechnica on sony hack}
+      \field{year}{2014}
+    \endentry
+    \entry{arstech2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cd2ab116934e46892af081a2313efc38}{%
+           family={Gallagher},
+           family_i={G\bibinitperiod},
+           given={Sean},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd2ab116934e46892af081a2313efc38}
+      \strng{fullhash}{cd2ab116934e46892af081a2313efc38}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://arstechnica.com/information-technology/2016/12/shamoon-wiper-malware-returns-with-a-vengeance/}}
+      \field{title}{arstechnica on wiper malware}
+      \field{year}{2016}
+    \endentry
+    \entry{securityweek}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=240a8762d3cbd61711cd48498419a41d}{%
+           family={Lennon},
+           family_i={L\bibinitperiod},
+           given={Mike},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{240a8762d3cbd61711cd48498419a41d}
+      \strng{fullhash}{240a8762d3cbd61711cd48498419a41d}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.securityweek.com/hackers-used-sophisticated-smb-worm-tool-attack-sony}}
+      \field{title}{securityweek}
+      \field{year}{2014}
+    \endentry
+    \entry{xgcd}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=df9f2c8f7f79d3b27696e3d02ae516ed}{%
+           family={Parampalli},
+           family_i={P\bibinitperiod},
+           given={Udaya},
+           given_i={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{df9f2c8f7f79d3b27696e3d02ae516ed}
+      \strng{fullhash}{df9f2c8f7f79d3b27696e3d02ae516ed}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://app.lms.unimelb.edu.au/bbcswebdav/pid-6138638-dt-content-rid-24475513_2/courses/COMP90043_2017_SM2/ExtendedEuclid.pdf}}
+      \field{title}{Lecture slides on xgcd}
+      \field{year}{2017}
+    \endentry
+    \entry{book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0599c551bf066f66e0e9c44815384cb4}{%
+           family={Stallings},
+           family_i={S\bibinitperiod},
+           given={William},
+           given_i={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{0599c551bf066f66e0e9c44815384cb4}
+      \strng{fullhash}{0599c551bf066f66e0e9c44815384cb4}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0133354695}
+      \field{title}{Cryptography and Network Security Principles and Practice 6th Edition}
+      \field{year}{2016}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

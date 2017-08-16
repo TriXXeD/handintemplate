@@ -1,0 +1,72 @@
+%
+% deliverable
+% 
+% Licensed under MIT License
+%
+% Page creation engine
+\documentclass[11pt,a4paper,article,oneside]{memoir}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{mathtools}
+\usepackage{titling}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{bibtex/mybib.bib}
+\usepackage[pagestyles]{titlesec}
+\titleformat{\chapter}[hang]{\huge\bfseries}{}{0pt}{}[
+    \vspace{-0.5ex}%
+    \rule{\textwidth}{0.5pt}%
+    \vspace{-1.5cm}
+]
+\renewcommand{\thechapter}{\Roman{chapter}}
+\renewcommand{\thesection}{\thechapter.\Roman{section}} 
+\renewcommand{\thesubsection}{\thechapter.\thesection.\Roman{subsection}}
+
+\pretitle{\vspace{-1cm}\centering\HUGE\bfseries\scshape}
+\posttitle{\\
+\vspace{-20pt}
+\rule{10em}{0.5pt}\\
+\vspace{20pt}}
+\preauthor{\centering\large}
+\postauthor{\\\vspace{18pt}}
+\predate{\centering\large}
+\postdate{\\}
+
+\setulmarginsandblock{3cm}{3cm}{*}
+\setlrmarginsandblock{3.5cm}{3.5cm}{*}
+\checkandfixthelayout%
+
+% Meta-data
+\title{Assignment 1: COMP90043}
+\author{Marc Tom Thorgersen, SID 906200, mthorgersen@student.unimelb.edu.au}
+\date{August 17, 2017}
+
+% Main modules
+\usepackage{url}      % URL
+\usepackage{hyperref} % Links
+\usepackage{graphicx} % Pictures
+\usepackage{wrapfig}  % In-line Pictures
+\usepackage{verbatim} % Code
+\usepackage{moreverb} % Encoding
+\usepackage{listings} % Code
+\usepackage{xcolor}    % Highlight
+\usepackage{multicol} % Multi Column
+\usepackage[inline,shortlabels]{enumitem}
+\usepackage{csquotes}
+
+% Document{}
+\begin{document}
+\maketitle
+%%% CHAPTERS & INPUT %%%
+
+% Chapter files listing
+
+\newpage
+
+% End of chapter files listing
+
+% Bibliography
+\part{bibliography}
+\printbibliography
+\end{document}
